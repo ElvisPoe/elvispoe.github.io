@@ -1870,9 +1870,9 @@ body {
     transition-delay: .16s
 }
 
-/* .mouse-scroll {
+.mouse-scroll {
     position: fixed;
-    bottom: 3%;
+    bottom: 10%;
     left: 50%;
     transform: translateX(-50%);
 }
@@ -1911,4 +1911,4 @@ body {
 		opacity: 0;
 		top: 40px;
 	}
-} */
+}
